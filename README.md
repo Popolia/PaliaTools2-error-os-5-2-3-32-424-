@@ -1,7 +1,8 @@
 # PaliaTools2
 Del_registre_singularity 6
 
- this is the latest version, it works for error os 5 , 2 ,3 , 32 ,424 
+ this is the latest version, it works for error os 5 , 2 ,3 , 32 ,424 :
+
  The following images come from a person who used it other than me to show you what happens :
 
 ![image](https://github.com/Popolia/PaliaTools2-error-os-5-2-3-32-424-/assets/69745473/d3dbd1fb-0806-43a8-9f94-9908f554264e)
