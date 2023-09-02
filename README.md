@@ -4,7 +4,9 @@ Del_registre_singularity 6
  this is the latest version, it works for error os 5 , 2 ,3 , 32 ,424 :
 
  The following images come from a person who used it other than me to show you what happens :
- this will delete the game and the register 
+ this will delete the game and the register
+
+I had it tested on a French person other than myself to explain the process to you, but in English it's the same procedure. The images are there just to show you more or less the process, because an image is worth a thousand words. 
 
 ![image](https://github.com/Popolia/PaliaTools2-error-os-5-2-3-32-424-/assets/69745473/d3dbd1fb-0806-43a8-9f94-9908f554264e)
 Why am I getting this message?
