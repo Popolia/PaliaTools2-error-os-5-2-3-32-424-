@@ -8,6 +8,8 @@ Del_registre_singularity 6
 
 I had it tested on a French person other than myself to explain the process to you, but in English it's the same procedure. The images are there just to show you more or less the process, because an image is worth a thousand words. 
 
+ps: the images are a little dated, as everything is now translated into English on the .bat site
+
 ![image](https://github.com/Popolia/PaliaTools2-error-os-5-2-3-32-424-/assets/69745473/d3dbd1fb-0806-43a8-9f94-9908f554264e)
 Why am I getting this message?
 
