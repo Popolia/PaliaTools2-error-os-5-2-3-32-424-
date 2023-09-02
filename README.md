@@ -1,7 +1,7 @@
 # PaliaTools2
 Del_registre_singularity 6
 
- this is the latest version, it works for error os 5 , 2 ,3 , 32 ,424 :
+ this is the latest version, it works for error os 5 , 2 ,3 , 32 ,424 : https://docs.google.com/spreadsheets/d/1wLaDUnI7XbQbtXkFrMfZuZs6eyoRdwUZbiis8KIs7M0/edit#gid=0
 
  The following images come from a person who used it other than me to show you what happens :
  this will delete the game and the register
