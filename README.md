@@ -10,7 +10,7 @@ Del_registre_singularity 6
 Why am I getting this message?
 
 to answer your question about a .bat file, most computers report .bat files downloaded from the internet as extremely dangerous and prevent you from running them. This is why it is often preferable to create your own file".
-I'll give you the .bat car file, it's quicker, but there's nothing to stop you reading it if you have any doubts. After all, it's normal in today's world.
+I'll give you the .bat because  file, it's quicker, but there's nothing to stop you reading it if you have any doubts. After all, it's normal in today's world.
 
 How do I view the file?
 
