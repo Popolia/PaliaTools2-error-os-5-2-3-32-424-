@@ -2,6 +2,8 @@
 
 ## Del_registre_singularity 6
 
+- .exe beta version
+
 This is the latest version, it works for error OS codes 5, 2, 3, 32, and 424: [Documentation](https://docs.google.com/spreadsheets/d/1wLaDUnI7XbQbtXkFrMfZuZs6eyoRdwUZbiis8KIs7M0/edit#gid=0)
 
 The following images come from a user who tested the tool to demonstrate what happens: this will delete the game and the registry.
