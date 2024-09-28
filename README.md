@@ -1,7 +1,3 @@
-# It seems that the previous attempts encountered issues with special characters.
-# I'll remove potential problematic characters and try again to create the markdown file.
-
-markdown_content_cleaned = """
 # PaliaTools2
 
 ## Del_registre_singularity 6
